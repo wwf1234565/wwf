@@ -1,0 +1,573 @@
+nohup: 忽略输入
+torch.Size([60000, 28, 28])
+torch.Size([60000, 28, 28])
+Files already downloaded and verified
+Files already downloaded and verified
+KCIF-第0个epoch，准确率为:0.598
+KCIF-第1个epoch，准确率为:0.602
+KCIF-第2个epoch，准确率为:0.606
+KCIF-第3个epoch，准确率为:0.608
+KCIF-第4个epoch，准确率为:0.61
+KCIF-第5个epoch，准确率为:0.609
+KCIF-第6个epoch，准确率为:0.612
+KCIF-第7个epoch，准确率为:0.614
+KCIF-第8个epoch，准确率为:0.617
+KCIF-第9个epoch，准确率为:0.619
+KCIF-第10个epoch，准确率为:0.622
+KCIF-第11个epoch，准确率为:0.625
+KCIF-第12个epoch，准确率为:0.627
+KCIF-第13个epoch，准确率为:0.627
+KCIF-第14个epoch，准确率为:0.628
+KCIF-第15个epoch，准确率为:0.63
+KCIF-第16个epoch，准确率为:0.634
+KCIF-第17个epoch，准确率为:0.634
+KCIF-第18个epoch，准确率为:0.638
+KCIF-第19个epoch，准确率为:0.643
+KCIF-第20个epoch，准确率为:0.643
+KCIF-第21个epoch，准确率为:0.648
+KCIF-第22个epoch，准确率为:0.65
+KCIF-第23个epoch，准确率为:0.652
+KCIF-第24个epoch，准确率为:0.655
+KCIF-第25个epoch，准确率为:0.656
+KCIF-第26个epoch，准确率为:0.656
+KCIF-第27个epoch，准确率为:0.661
+KCIF-第28个epoch，准确率为:0.66
+KCIF-第29个epoch，准确率为:0.663
+KCIF-第30个epoch，准确率为:0.666
+KCIF-第31个epoch，准确率为:0.67
+KCIF-第32个epoch，准确率为:0.671
+KCIF-第33个epoch，准确率为:0.673
+KCIF-第34个epoch，准确率为:0.672
+KCIF-第35个epoch，准确率为:0.675
+KCIF-第36个epoch，准确率为:0.676
+KCIF-第37个epoch，准确率为:0.68
+KCIF-第38个epoch，准确率为:0.684
+KCIF-第39个epoch，准确率为:0.685
+KCIF-第40个epoch，准确率为:0.688
+KCIF-第41个epoch，准确率为:0.687
+KCIF-第42个epoch，准确率为:0.687
+KCIF-第43个epoch，准确率为:0.691
+KCIF-第44个epoch，准确率为:0.693
+KCIF-第45个epoch，准确率为:0.694
+KCIF-第46个epoch，准确率为:0.698
+KCIF-第47个epoch，准确率为:0.698
+KCIF-第48个epoch，准确率为:0.701
+KCIF-第49个epoch，准确率为:0.704
+KCIF-第50个epoch，准确率为:0.704
+KCIF-第51个epoch，准确率为:0.708
+KCIF-第52个epoch，准确率为:0.713
+KCIF-第53个epoch，准确率为:0.712
+KCIF-第54个epoch，准确率为:0.713
+KCIF-第55个epoch，准确率为:0.713
+KCIF-第56个epoch，准确率为:0.715
+KCIF-第57个epoch，准确率为:0.716
+KCIF-第58个epoch，准确率为:0.715
+KCIF-第59个epoch，准确率为:0.718
+KCIF-第60个epoch，准确率为:0.719
+KCIF-第61个epoch，准确率为:0.719
+KCIF-第62个epoch，准确率为:0.719
+KCIF-第63个epoch，准确率为:0.719
+KCIF-第64个epoch，准确率为:0.72
+KCIF-第65个epoch，准确率为:0.723
+KCIF-第66个epoch，准确率为:0.723
+KCIF-第67个epoch，准确率为:0.723
+KCIF-第68个epoch，准确率为:0.723
+KCIF-第69个epoch，准确率为:0.724
+KCIF方法结束
+Bseline-第 0 个epoch，DPSGD的准确率: 0.598 KF-DPSGD的准确率: 0.598
+Bseline-第 1 个epoch，DPSGD的准确率: 0.602 KF-DPSGD的准确率: 0.602
+Bseline-第 2 个epoch，DPSGD的准确率: 0.606 KF-DPSGD的准确率: 0.607
+Bseline-第 3 个epoch，DPSGD的准确率: 0.607 KF-DPSGD的准确率: 0.608
+Bseline-第 4 个epoch，DPSGD的准确率: 0.609 KF-DPSGD的准确率: 0.61
+Bseline-第 5 个epoch，DPSGD的准确率: 0.609 KF-DPSGD的准确率: 0.609
+Bseline-第 6 个epoch，DPSGD的准确率: 0.61 KF-DPSGD的准确率: 0.611
+Bseline-第 7 个epoch，DPSGD的准确率: 0.612 KF-DPSGD的准确率: 0.612
+Bseline-第 8 个epoch，DPSGD的准确率: 0.613 KF-DPSGD的准确率: 0.617
+Bseline-第 9 个epoch，DPSGD的准确率: 0.616 KF-DPSGD的准确率: 0.62
+Bseline-第 10 个epoch，DPSGD的准确率: 0.62 KF-DPSGD的准确率: 0.621
+Bseline-第 11 个epoch，DPSGD的准确率: 0.622 KF-DPSGD的准确率: 0.626
+Bseline-第 12 个epoch，DPSGD的准确率: 0.626 KF-DPSGD的准确率: 0.626
+Bseline-第 13 个epoch，DPSGD的准确率: 0.626 KF-DPSGD的准确率: 0.628
+Bseline-第 14 个epoch，DPSGD的准确率: 0.629 KF-DPSGD的准确率: 0.629
+Bseline-第 15 个epoch，DPSGD的准确率: 0.629 KF-DPSGD的准确率: 0.633
+Bseline-第 16 个epoch，DPSGD的准确率: 0.63 KF-DPSGD的准确率: 0.637
+Bseline-第 17 个epoch，DPSGD的准确率: 0.635 KF-DPSGD的准确率: 0.638
+Bseline-第 18 个epoch，DPSGD的准确率: 0.637 KF-DPSGD的准确率: 0.639
+Bseline-第 19 个epoch，DPSGD的准确率: 0.638 KF-DPSGD的准确率: 0.64
+Bseline-第 20 个epoch，DPSGD的准确率: 0.64 KF-DPSGD的准确率: 0.643
+Bseline-第 21 个epoch，DPSGD的准确率: 0.64 KF-DPSGD的准确率: 0.648
+Bseline-第 22 个epoch，DPSGD的准确率: 0.643 KF-DPSGD的准确率: 0.651
+Bseline-第 23 个epoch，DPSGD的准确率: 0.647 KF-DPSGD的准确率: 0.655
+Bseline-第 24 个epoch，DPSGD的准确率: 0.65 KF-DPSGD的准确率: 0.656
+Bseline-第 25 个epoch，DPSGD的准确率: 0.654 KF-DPSGD的准确率: 0.657
+Bseline-第 26 个epoch，DPSGD的准确率: 0.656 KF-DPSGD的准确率: 0.659
+Bseline-第 27 个epoch，DPSGD的准确率: 0.657 KF-DPSGD的准确率: 0.659
+Bseline-第 28 个epoch，DPSGD的准确率: 0.658 KF-DPSGD的准确率: 0.662
+Bseline-第 29 个epoch，DPSGD的准确率: 0.66 KF-DPSGD的准确率: 0.664
+Bseline-第 30 个epoch，DPSGD的准确率: 0.659 KF-DPSGD的准确率: 0.666
+Bseline-第 31 个epoch，DPSGD的准确率: 0.663 KF-DPSGD的准确率: 0.669
+Bseline-第 32 个epoch，DPSGD的准确率: 0.664 KF-DPSGD的准确率: 0.67
+Bseline-第 33 个epoch，DPSGD的准确率: 0.666 KF-DPSGD的准确率: 0.671
+Bseline-第 34 个epoch，DPSGD的准确率: 0.669 KF-DPSGD的准确率: 0.672
+Bseline-第 35 个epoch，DPSGD的准确率: 0.67 KF-DPSGD的准确率: 0.676
+Bseline-第 36 个epoch，DPSGD的准确率: 0.671 KF-DPSGD的准确率: 0.678
+Bseline-第 37 个epoch，DPSGD的准确率: 0.673 KF-DPSGD的准确率: 0.68
+Bseline-第 38 个epoch，DPSGD的准确率: 0.675 KF-DPSGD的准确率: 0.68
+Bseline-第 39 个epoch，DPSGD的准确率: 0.677 KF-DPSGD的准确率: 0.687
+Bseline-第 40 个epoch，DPSGD的准确率: 0.678 KF-DPSGD的准确率: 0.687
+Bseline-第 41 个epoch，DPSGD的准确率: 0.68 KF-DPSGD的准确率: 0.687
+Bseline-第 42 个epoch，DPSGD的准确率: 0.682 KF-DPSGD的准确率: 0.689
+Bseline-第 43 个epoch，DPSGD的准确率: 0.688 KF-DPSGD的准确率: 0.692
+Bseline-第 44 个epoch，DPSGD的准确率: 0.689 KF-DPSGD的准确率: 0.696
+Bseline-第 45 个epoch，DPSGD的准确率: 0.688 KF-DPSGD的准确率: 0.696
+Bseline-第 46 个epoch，DPSGD的准确率: 0.692 KF-DPSGD的准确率: 0.699
+Bseline-第 47 个epoch，DPSGD的准确率: 0.694 KF-DPSGD的准确率: 0.701
+Bseline-第 48 个epoch，DPSGD的准确率: 0.696 KF-DPSGD的准确率: 0.705
+Bseline-第 49 个epoch，DPSGD的准确率: 0.695 KF-DPSGD的准确率: 0.705
+Bseline-第 50 个epoch，DPSGD的准确率: 0.697 KF-DPSGD的准确率: 0.708
+Bseline-第 51 个epoch，DPSGD的准确率: 0.698 KF-DPSGD的准确率: 0.713
+Bseline-第 52 个epoch，DPSGD的准确率: 0.702 KF-DPSGD的准确率: 0.712
+Bseline-第 53 个epoch，DPSGD的准确率: 0.704 KF-DPSGD的准确率: 0.714
+Bseline-第 54 个epoch，DPSGD的准确率: 0.705 KF-DPSGD的准确率: 0.715
+Bseline-第 55 个epoch，DPSGD的准确率: 0.708 KF-DPSGD的准确率: 0.716
+Bseline-第 56 个epoch，DPSGD的准确率: 0.711 KF-DPSGD的准确率: 0.716
+Bseline-第 57 个epoch，DPSGD的准确率: 0.714 KF-DPSGD的准确率: 0.717
+Bseline-第 58 个epoch，DPSGD的准确率: 0.715 KF-DPSGD的准确率: 0.719
+Bseline-第 59 个epoch，DPSGD的准确率: 0.715 KF-DPSGD的准确率: 0.72
+Bseline-第 60 个epoch，DPSGD的准确率: 0.716 KF-DPSGD的准确率: 0.719
+Bseline-第 61 个epoch，DPSGD的准确率: 0.716 KF-DPSGD的准确率: 0.718
+Bseline-第 62 个epoch，DPSGD的准确率: 0.717 KF-DPSGD的准确率: 0.718
+Bseline-第 63 个epoch，DPSGD的准确率: 0.719 KF-DPSGD的准确率: 0.718
+Bseline-第 64 个epoch，DPSGD的准确率: 0.719 KF-DPSGD的准确率: 0.721
+Bseline-第 65 个epoch，DPSGD的准确率: 0.719 KF-DPSGD的准确率: 0.723
+Bseline-第 66 个epoch，DPSGD的准确率: 0.718 KF-DPSGD的准确率: 0.724
+Bseline-第 67 个epoch，DPSGD的准确率: 0.719 KF-DPSGD的准确率: 0.724
+Bseline-第 68 个epoch，DPSGD的准确率: 0.721 KF-DPSGD的准确率: 0.724
+Bseline-第 69 个epoch，DPSGD的准确率: 0.723 KF-DPSGD的准确率: 0.724
+Baseline方法结束
+KCIF-第0个epoch，准确率为:0.4291
+KCIF-第1个epoch，准确率为:0.6534
+KCIF-第2个epoch，准确率为:0.7267
+KCIF-第3个epoch，准确率为:0.7623
+KCIF-第4个epoch，准确率为:0.7836
+KCIF-第5个epoch，准确率为:0.8005
+KCIF-第6个epoch，准确率为:0.8153
+KCIF-第7个epoch，准确率为:0.8238
+KCIF-第8个epoch，准确率为:0.833
+KCIF-第9个epoch，准确率为:0.8419
+KCIF-第10个epoch，准确率为:0.8473
+KCIF-第11个epoch，准确率为:0.8526
+KCIF-第12个epoch，准确率为:0.8575
+KCIF-第13个epoch，准确率为:0.8609
+KCIF-第14个epoch，准确率为:0.8644
+KCIF-第15个epoch，准确率为:0.8676
+KCIF-第16个epoch，准确率为:0.8702
+KCIF-第17个epoch，准确率为:0.873
+KCIF-第18个epoch，准确率为:0.8756
+KCIF-第19个epoch，准确率为:0.8781
+KCIF-第20个epoch，准确率为:0.8803
+KCIF-第21个epoch，准确率为:0.8823
+KCIF-第22个epoch，准确率为:0.8835
+KCIF-第23个epoch，准确率为:0.8843
+KCIF-第24个epoch，准确率为:0.8863
+KCIF-第25个epoch，准确率为:0.8881
+KCIF-第26个epoch，准确率为:0.889
+KCIF-第27个epoch，准确率为:0.8904
+KCIF-第28个epoch，准确率为:0.8924
+KCIF-第29个epoch，准确率为:0.8928
+KCIF-第30个epoch，准确率为:0.8934
+KCIF-第31个epoch，准确率为:0.8949
+KCIF-第32个epoch，准确率为:0.8961
+KCIF-第33个epoch，准确率为:0.8966
+KCIF-第34个epoch，准确率为:0.8965
+KCIF-第35个epoch，准确率为:0.8975
+KCIF-第36个epoch，准确率为:0.8978
+KCIF-第37个epoch，准确率为:0.8989
+KCIF-第38个epoch，准确率为:0.899
+KCIF-第39个epoch，准确率为:0.9
+KCIF-第40个epoch，准确率为:0.901
+KCIF-第41个epoch，准确率为:0.9015
+KCIF-第42个epoch，准确率为:0.9021
+KCIF-第43个epoch，准确率为:0.903
+KCIF-第44个epoch，准确率为:0.9036
+KCIF-第45个epoch，准确率为:0.9043
+KCIF-第46个epoch，准确率为:0.9046
+KCIF-第47个epoch，准确率为:0.9045
+KCIF-第48个epoch，准确率为:0.9053
+KCIF-第49个epoch，准确率为:0.9056
+KCIF-第50个epoch，准确率为:0.9059
+KCIF-第51个epoch，准确率为:0.9065
+KCIF-第52个epoch，准确率为:0.9069
+KCIF-第53个epoch，准确率为:0.9077
+KCIF-第54个epoch，准确率为:0.9075
+KCIF-第55个epoch，准确率为:0.9078
+KCIF-第56个epoch，准确率为:0.9085
+KCIF-第57个epoch，准确率为:0.9084
+KCIF-第58个epoch，准确率为:0.9088
+KCIF-第59个epoch，准确率为:0.9094
+KCIF-第60个epoch，准确率为:0.9101
+KCIF-第61个epoch，准确率为:0.9104
+KCIF-第62个epoch，准确率为:0.9112
+KCIF-第63个epoch，准确率为:0.9116
+KCIF-第64个epoch，准确率为:0.9125
+KCIF-第65个epoch，准确率为:0.9122
+KCIF-第66个epoch，准确率为:0.913
+KCIF-第67个epoch，准确率为:0.9129
+KCIF-第68个epoch，准确率为:0.9126
+KCIF-第69个epoch，准确率为:0.9135
+KCIF方法结束
+Bseline-第 0 个epoch，DPSGD的准确率: 0.3981 KF-DPSGD的准确率: 0.4281
+Bseline-第 1 个epoch，DPSGD的准确率: 0.624 KF-DPSGD的准确率: 0.6473
+Bseline-第 2 个epoch，DPSGD的准确率: 0.7109 KF-DPSGD的准确率: 0.7239
+Bseline-第 3 个epoch，DPSGD的准确率: 0.75 KF-DPSGD的准确率: 0.7608
+Bseline-第 4 个epoch，DPSGD的准确率: 0.7716 KF-DPSGD的准确率: 0.78
+Bseline-第 5 个epoch，DPSGD的准确率: 0.7915 KF-DPSGD的准确率: 0.7995
+Bseline-第 6 个epoch，DPSGD的准确率: 0.8038 KF-DPSGD的准确率: 0.8107
+Bseline-第 7 个epoch，DPSGD的准确率: 0.8145 KF-DPSGD的准确率: 0.8215
+Bseline-第 8 个epoch，DPSGD的准确率: 0.8235 KF-DPSGD的准确率: 0.8311
+Bseline-第 9 个epoch，DPSGD的准确率: 0.8309 KF-DPSGD的准确率: 0.836
+Bseline-第 10 个epoch，DPSGD的准确率: 0.8383 KF-DPSGD的准确率: 0.8441
+Bseline-第 11 个epoch，DPSGD的准确率: 0.8441 KF-DPSGD的准确率: 0.85
+Bseline-第 12 个epoch，DPSGD的准确率: 0.849 KF-DPSGD的准确率: 0.8554
+Bseline-第 13 个epoch，DPSGD的准确率: 0.8551 KF-DPSGD的准确率: 0.8604
+Bseline-第 14 个epoch，DPSGD的准确率: 0.859 KF-DPSGD的准确率: 0.8637
+Bseline-第 15 个epoch，DPSGD的准确率: 0.8621 KF-DPSGD的准确率: 0.8667
+Bseline-第 16 个epoch，DPSGD的准确率: 0.8655 KF-DPSGD的准确率: 0.87
+Bseline-第 17 个epoch，DPSGD的准确率: 0.8686 KF-DPSGD的准确率: 0.8729
+Bseline-第 18 个epoch，DPSGD的准确率: 0.871 KF-DPSGD的准确率: 0.8754
+Bseline-第 19 个epoch，DPSGD的准确率: 0.8735 KF-DPSGD的准确率: 0.8775
+Bseline-第 20 个epoch，DPSGD的准确率: 0.8757 KF-DPSGD的准确率: 0.8796
+Bseline-第 21 个epoch，DPSGD的准确率: 0.8776 KF-DPSGD的准确率: 0.8815
+Bseline-第 22 个epoch，DPSGD的准确率: 0.8795 KF-DPSGD的准确率: 0.8835
+Bseline-第 23 个epoch，DPSGD的准确率: 0.8816 KF-DPSGD的准确率: 0.884
+Bseline-第 24 个epoch，DPSGD的准确率: 0.8831 KF-DPSGD的准确率: 0.8857
+Bseline-第 25 个epoch，DPSGD的准确率: 0.8832 KF-DPSGD的准确率: 0.8869
+Bseline-第 26 个epoch，DPSGD的准确率: 0.8847 KF-DPSGD的准确率: 0.8883
+Bseline-第 27 个epoch，DPSGD的准确率: 0.886 KF-DPSGD的准确率: 0.8899
+Bseline-第 28 个epoch，DPSGD的准确率: 0.888 KF-DPSGD的准确率: 0.8907
+Bseline-第 29 个epoch，DPSGD的准确率: 0.8884 KF-DPSGD的准确率: 0.8919
+Bseline-第 30 个epoch，DPSGD的准确率: 0.8901 KF-DPSGD的准确率: 0.8933
+Bseline-第 31 个epoch，DPSGD的准确率: 0.8912 KF-DPSGD的准确率: 0.8938
+Bseline-第 32 个epoch，DPSGD的准确率: 0.8918 KF-DPSGD的准确率: 0.8941
+Bseline-第 33 个epoch，DPSGD的准确率: 0.8921 KF-DPSGD的准确率: 0.8946
+Bseline-第 34 个epoch，DPSGD的准确率: 0.8929 KF-DPSGD的准确率: 0.8958
+Bseline-第 35 个epoch，DPSGD的准确率: 0.8938 KF-DPSGD的准确率: 0.8964
+Bseline-第 36 个epoch，DPSGD的准确率: 0.8946 KF-DPSGD的准确率: 0.8974
+Bseline-第 37 个epoch，DPSGD的准确率: 0.8956 KF-DPSGD的准确率: 0.8983
+Bseline-第 38 个epoch，DPSGD的准确率: 0.8967 KF-DPSGD的准确率: 0.8984
+Bseline-第 39 个epoch，DPSGD的准确率: 0.8972 KF-DPSGD的准确率: 0.8993
+Bseline-第 40 个epoch，DPSGD的准确率: 0.8975 KF-DPSGD的准确率: 0.8995
+Bseline-第 41 个epoch，DPSGD的准确率: 0.8982 KF-DPSGD的准确率: 0.9003
+Bseline-第 42 个epoch，DPSGD的准确率: 0.8982 KF-DPSGD的准确率: 0.8997
+Bseline-第 43 个epoch，DPSGD的准确率: 0.8989 KF-DPSGD的准确率: 0.9
+Bseline-第 44 个epoch，DPSGD的准确率: 0.8991 KF-DPSGD的准确率: 0.9013
+Bseline-第 45 个epoch，DPSGD的准确率: 0.8989 KF-DPSGD的准确率: 0.9013
+Bseline-第 46 个epoch，DPSGD的准确率: 0.8998 KF-DPSGD的准确率: 0.902
+Bseline-第 47 个epoch，DPSGD的准确率: 0.9003 KF-DPSGD的准确率: 0.9029
+Bseline-第 48 个epoch，DPSGD的准确率: 0.9011 KF-DPSGD的准确率: 0.9032
+Bseline-第 49 个epoch，DPSGD的准确率: 0.9017 KF-DPSGD的准确率: 0.9042
+Bseline-第 50 个epoch，DPSGD的准确率: 0.9021 KF-DPSGD的准确率: 0.9041
+Bseline-第 51 个epoch，DPSGD的准确率: 0.9026 KF-DPSGD的准确率: 0.9055
+Bseline-第 52 个epoch，DPSGD的准确率: 0.9035 KF-DPSGD的准确率: 0.9062
+Bseline-第 53 个epoch，DPSGD的准确率: 0.9035 KF-DPSGD的准确率: 0.9059
+Bseline-第 54 个epoch，DPSGD的准确率: 0.9045 KF-DPSGD的准确率: 0.9066
+Bseline-第 55 个epoch，DPSGD的准确率: 0.9042 KF-DPSGD的准确率: 0.9071
+Bseline-第 56 个epoch，DPSGD的准确率: 0.9049 KF-DPSGD的准确率: 0.9078
+Bseline-第 57 个epoch，DPSGD的准确率: 0.906 KF-DPSGD的准确率: 0.9082
+Bseline-第 58 个epoch，DPSGD的准确率: 0.9059 KF-DPSGD的准确率: 0.9082
+Bseline-第 59 个epoch，DPSGD的准确率: 0.9065 KF-DPSGD的准确率: 0.9088
+Bseline-第 60 个epoch，DPSGD的准确率: 0.907 KF-DPSGD的准确率: 0.909
+Bseline-第 61 个epoch，DPSGD的准确率: 0.9072 KF-DPSGD的准确率: 0.9095
+Bseline-第 62 个epoch，DPSGD的准确率: 0.9079 KF-DPSGD的准确率: 0.9096
+Bseline-第 63 个epoch，DPSGD的准确率: 0.9087 KF-DPSGD的准确率: 0.9099
+Bseline-第 64 个epoch，DPSGD的准确率: 0.9089 KF-DPSGD的准确率: 0.9102
+Bseline-第 65 个epoch，DPSGD的准确率: 0.909 KF-DPSGD的准确率: 0.9104
+Bseline-第 66 个epoch，DPSGD的准确率: 0.9092 KF-DPSGD的准确率: 0.9116
+Bseline-第 67 个epoch，DPSGD的准确率: 0.9098 KF-DPSGD的准确率: 0.9115
+Bseline-第 68 个epoch，DPSGD的准确率: 0.9101 KF-DPSGD的准确率: 0.9121
+Bseline-第 69 个epoch，DPSGD的准确率: 0.9106 KF-DPSGD的准确率: 0.9123
+Baseline方法结束
+KCIF-第0个epoch，准确率为:0.2744
+KCIF-第1个epoch，准确率为:0.5476
+KCIF-第2个epoch，准确率为:0.7185
+KCIF-第3个epoch，准确率为:0.7755
+KCIF-第4个epoch，准确率为:0.804
+KCIF-第5个epoch，准确率为:0.8218
+KCIF-第6个epoch，准确率为:0.8326
+KCIF-第7个epoch，准确率为:0.8417
+KCIF-第8个epoch，准确率为:0.8496
+KCIF-第9个epoch，准确率为:0.8571
+KCIF-第10个epoch，准确率为:0.8644
+KCIF-第11个epoch，准确率为:0.8722
+KCIF-第12个epoch，准确率为:0.8785
+KCIF-第13个epoch，准确率为:0.8818
+KCIF-第14个epoch，准确率为:0.8883
+KCIF-第15个epoch，准确率为:0.8914
+KCIF-第16个epoch，准确率为:0.8951
+KCIF-第17个epoch，准确率为:0.8976
+KCIF-第18个epoch，准确率为:0.9001
+KCIF-第19个epoch，准确率为:0.9016
+KCIF-第20个epoch，准确率为:0.903
+KCIF-第21个epoch，准确率为:0.906
+KCIF-第22个epoch，准确率为:0.909
+KCIF-第23个epoch，准确率为:0.9111
+KCIF-第24个epoch，准确率为:0.913
+KCIF-第25个epoch，准确率为:0.9144
+KCIF-第26个epoch，准确率为:0.9151
+KCIF-第27个epoch，准确率为:0.9164
+KCIF-第28个epoch，准确率为:0.9177
+KCIF-第29个epoch，准确率为:0.9184
+KCIF-第30个epoch，准确率为:0.9199
+KCIF-第31个epoch，准确率为:0.921
+KCIF-第32个epoch，准确率为:0.9216
+KCIF-第33个epoch，准确率为:0.9229
+KCIF-第34个epoch，准确率为:0.9235
+KCIF-第35个epoch，准确率为:0.9248
+KCIF-第36个epoch，准确率为:0.926
+KCIF-第37个epoch，准确率为:0.9262
+KCIF-第38个epoch，准确率为:0.9268
+KCIF-第39个epoch，准确率为:0.9276
+KCIF-第40个epoch，准确率为:0.928
+KCIF-第41个epoch，准确率为:0.9298
+KCIF-第42个epoch，准确率为:0.9309
+KCIF-第43个epoch，准确率为:0.9316
+KCIF-第44个epoch，准确率为:0.9319
+KCIF-第45个epoch，准确率为:0.9324
+KCIF-第46个epoch，准确率为:0.9328
+KCIF-第47个epoch，准确率为:0.9339
+KCIF-第48个epoch，准确率为:0.9342
+KCIF-第49个epoch，准确率为:0.9349
+KCIF-第50个epoch，准确率为:0.9357
+KCIF-第51个epoch，准确率为:0.936
+KCIF-第52个epoch，准确率为:0.9368
+KCIF-第53个epoch，准确率为:0.9371
+KCIF-第54个epoch，准确率为:0.9376
+KCIF-第55个epoch，准确率为:0.9382
+KCIF-第56个epoch，准确率为:0.9387
+KCIF-第57个epoch，准确率为:0.9397
+KCIF-第58个epoch，准确率为:0.9394
+KCIF-第59个epoch，准确率为:0.9404
+KCIF-第60个epoch，准确率为:0.9408
+KCIF-第61个epoch，准确率为:0.9411
+KCIF-第62个epoch，准确率为:0.9415
+KCIF-第63个epoch，准确率为:0.9418
+KCIF-第64个epoch，准确率为:0.9423
+KCIF-第65个epoch，准确率为:0.9425
+KCIF-第66个epoch，准确率为:0.9431
+KCIF-第67个epoch，准确率为:0.9431
+KCIF-第68个epoch，准确率为:0.944
+KCIF-第69个epoch，准确率为:0.944
+KCIF方法结束
+Bseline-第 0 个epoch，DPSGD的准确率: 0.2688 KF-DPSGD的准确率: 0.291
+Bseline-第 1 个epoch，DPSGD的准确率: 0.4962 KF-DPSGD的准确率: 0.5359
+Bseline-第 2 个epoch，DPSGD的准确率: 0.6907 KF-DPSGD的准确率: 0.7177
+Bseline-第 3 个epoch，DPSGD的准确率: 0.7589 KF-DPSGD的准确率: 0.7723
+Bseline-第 4 个epoch，DPSGD的准确率: 0.7941 KF-DPSGD的准确率: 0.8049
+Bseline-第 5 个epoch，DPSGD的准确率: 0.8163 KF-DPSGD的准确率: 0.8256
+Bseline-第 6 个epoch，DPSGD的准确率: 0.8287 KF-DPSGD的准确率: 0.8348
+Bseline-第 7 个epoch，DPSGD的准确率: 0.8358 KF-DPSGD的准确率: 0.8421
+Bseline-第 8 个epoch，DPSGD的准确率: 0.8426 KF-DPSGD的准确率: 0.8497
+Bseline-第 9 个epoch，DPSGD的准确率: 0.8505 KF-DPSGD的准确率: 0.8585
+Bseline-第 10 个epoch，DPSGD的准确率: 0.8575 KF-DPSGD的准确率: 0.8643
+Bseline-第 11 个epoch，DPSGD的准确率: 0.8627 KF-DPSGD的准确率: 0.8692
+Bseline-第 12 个epoch，DPSGD的准确率: 0.8686 KF-DPSGD的准确率: 0.876
+Bseline-第 13 个epoch，DPSGD的准确率: 0.8749 KF-DPSGD的准确率: 0.8803
+Bseline-第 14 个epoch，DPSGD的准确率: 0.8793 KF-DPSGD的准确率: 0.8841
+Bseline-第 15 个epoch，DPSGD的准确率: 0.8859 KF-DPSGD的准确率: 0.891
+Bseline-第 16 个epoch，DPSGD的准确率: 0.8866 KF-DPSGD的准确率: 0.8919
+Bseline-第 17 个epoch，DPSGD的准确率: 0.8892 KF-DPSGD的准确率: 0.8945
+Bseline-第 18 个epoch，DPSGD的准确率: 0.8931 KF-DPSGD的准确率: 0.8969
+Bseline-第 19 个epoch，DPSGD的准确率: 0.8975 KF-DPSGD的准确率: 0.9016
+Bseline-第 20 个epoch，DPSGD的准确率: 0.8986 KF-DPSGD的准确率: 0.9033
+Bseline-第 21 个epoch，DPSGD的准确率: 0.8997 KF-DPSGD的准确率: 0.9048
+Bseline-第 22 个epoch，DPSGD的准确率: 0.902 KF-DPSGD的准确率: 0.9069
+Bseline-第 23 个epoch，DPSGD的准确率: 0.9045 KF-DPSGD的准确率: 0.9095
+Bseline-第 24 个epoch，DPSGD的准确率: 0.9066 KF-DPSGD的准确率: 0.911
+Bseline-第 25 个epoch，DPSGD的准确率: 0.9075 KF-DPSGD的准确率: 0.9114
+Bseline-第 26 个epoch，DPSGD的准确率: 0.9102 KF-DPSGD的准确率: 0.9136
+Bseline-第 27 个epoch，DPSGD的准确率: 0.9117 KF-DPSGD的准确率: 0.9157
+Bseline-第 28 个epoch，DPSGD的准确率: 0.9115 KF-DPSGD的准确率: 0.9151
+Bseline-第 29 个epoch，DPSGD的准确率: 0.9136 KF-DPSGD的准确率: 0.9167
+Bseline-第 30 个epoch，DPSGD的准确率: 0.9151 KF-DPSGD的准确率: 0.9179
+Bseline-第 31 个epoch，DPSGD的准确率: 0.9156 KF-DPSGD的准确率: 0.9183
+Bseline-第 32 个epoch，DPSGD的准确率: 0.9185 KF-DPSGD的准确率: 0.9206
+Bseline-第 33 个epoch，DPSGD的准确率: 0.9193 KF-DPSGD的准确率: 0.9217
+Bseline-第 34 个epoch，DPSGD的准确率: 0.9195 KF-DPSGD的准确率: 0.9214
+Bseline-第 35 个epoch，DPSGD的准确率: 0.9217 KF-DPSGD的准确率: 0.923
+Bseline-第 36 个epoch，DPSGD的准确率: 0.9216 KF-DPSGD的准确率: 0.9236
+Bseline-第 37 个epoch，DPSGD的准确率: 0.9224 KF-DPSGD的准确率: 0.9248
+Bseline-第 38 个epoch，DPSGD的准确率: 0.9224 KF-DPSGD的准确率: 0.9251
+Bseline-第 39 个epoch，DPSGD的准确率: 0.9234 KF-DPSGD的准确率: 0.9259
+Bseline-第 40 个epoch，DPSGD的准确率: 0.9251 KF-DPSGD的准确率: 0.9278
+Bseline-第 41 个epoch，DPSGD的准确率: 0.9252 KF-DPSGD的准确率: 0.9284
+Bseline-第 42 个epoch，DPSGD的准确率: 0.9249 KF-DPSGD的准确率: 0.9284
+Bseline-第 43 个epoch，DPSGD的准确率: 0.927 KF-DPSGD的准确率: 0.9294
+Bseline-第 44 个epoch，DPSGD的准确率: 0.9277 KF-DPSGD的准确率: 0.93
+Bseline-第 45 个epoch，DPSGD的准确率: 0.9275 KF-DPSGD的准确率: 0.9304
+Bseline-第 46 个epoch，DPSGD的准确率: 0.928 KF-DPSGD的准确率: 0.9305
+Bseline-第 47 个epoch，DPSGD的准确率: 0.9293 KF-DPSGD的准确率: 0.9325
+Bseline-第 48 个epoch，DPSGD的准确率: 0.9303 KF-DPSGD的准确率: 0.9324
+Bseline-第 49 个epoch，DPSGD的准确率: 0.9294 KF-DPSGD的准确率: 0.9321
+Bseline-第 50 个epoch，DPSGD的准确率: 0.9309 KF-DPSGD的准确率: 0.9342
+Bseline-第 51 个epoch，DPSGD的准确率: 0.9315 KF-DPSGD的准确率: 0.9345
+Bseline-第 52 个epoch，DPSGD的准确率: 0.9319 KF-DPSGD的准确率: 0.9346
+Bseline-第 53 个epoch，DPSGD的准确率: 0.9328 KF-DPSGD的准确率: 0.9364
+Bseline-第 54 个epoch，DPSGD的准确率: 0.933 KF-DPSGD的准确率: 0.935
+Bseline-第 55 个epoch，DPSGD的准确率: 0.9345 KF-DPSGD的准确率: 0.9364
+Bseline-第 56 个epoch，DPSGD的准确率: 0.9337 KF-DPSGD的准确率: 0.9359
+Bseline-第 57 个epoch，DPSGD的准确率: 0.9355 KF-DPSGD的准确率: 0.9375
+Bseline-第 58 个epoch，DPSGD的准确率: 0.935 KF-DPSGD的准确率: 0.9382
+Bseline-第 59 个epoch，DPSGD的准确率: 0.9359 KF-DPSGD的准确率: 0.9381
+Bseline-第 60 个epoch，DPSGD的准确率: 0.9366 KF-DPSGD的准确率: 0.9381
+Bseline-第 61 个epoch，DPSGD的准确率: 0.9374 KF-DPSGD的准确率: 0.9388
+Bseline-第 62 个epoch，DPSGD的准确率: 0.9372 KF-DPSGD的准确率: 0.9393
+Bseline-第 63 个epoch，DPSGD的准确率: 0.9378 KF-DPSGD的准确率: 0.9393
+Bseline-第 64 个epoch，DPSGD的准确率: 0.9383 KF-DPSGD的准确率: 0.9399
+Bseline-第 65 个epoch，DPSGD的准确率: 0.9388 KF-DPSGD的准确率: 0.941
+Bseline-第 66 个epoch，DPSGD的准确率: 0.9404 KF-DPSGD的准确率: 0.9422
+Bseline-第 67 个epoch，DPSGD的准确率: 0.94 KF-DPSGD的准确率: 0.9415
+Bseline-第 68 个epoch，DPSGD的准确率: 0.9404 KF-DPSGD的准确率: 0.942
+Bseline-第 69 个epoch，DPSGD的准确率: 0.9407 KF-DPSGD的准确率: 0.9428
+Baseline方法结束
+KCIF-第0个epoch，准确率为:0.1667
+KCIF-第1个epoch，准确率为:0.2122
+KCIF-第2个epoch，准确率为:0.2369
+KCIF-第3个epoch，准确率为:0.246
+KCIF-第4个epoch，准确率为:0.2546
+KCIF-第5个epoch，准确率为:0.2618
+KCIF-第6个epoch，准确率为:0.2679
+KCIF-第7个epoch，准确率为:0.2757
+KCIF-第8个epoch，准确率为:0.2834
+KCIF-第9个epoch，准确率为:0.2882
+KCIF-第10个epoch，准确率为:0.2926
+KCIF-第11个epoch，准确率为:0.2986
+KCIF-第12个epoch，准确率为:0.3027
+KCIF-第13个epoch，准确率为:0.306
+KCIF-第14个epoch，准确率为:0.3111
+KCIF-第15个epoch，准确率为:0.3169
+KCIF-第16个epoch，准确率为:0.3227
+KCIF-第17个epoch，准确率为:0.3264
+KCIF-第18个epoch，准确率为:0.3319
+KCIF-第19个epoch，准确率为:0.3387
+KCIF-第20个epoch，准确率为:0.3419
+KCIF-第21个epoch，准确率为:0.3433
+KCIF-第22个epoch，准确率为:0.3457
+KCIF-第23个epoch，准确率为:0.348
+KCIF-第24个epoch，准确率为:0.3528
+KCIF-第25个epoch，准确率为:0.3575
+KCIF-第26个epoch，准确率为:0.3587
+KCIF-第27个epoch，准确率为:0.3639
+KCIF-第28个epoch，准确率为:0.3647
+KCIF-第29个epoch，准确率为:0.3666
+KCIF-第30个epoch，准确率为:0.3688
+KCIF-第31个epoch，准确率为:0.3705
+KCIF-第32个epoch，准确率为:0.3724
+KCIF-第33个epoch，准确率为:0.3731
+KCIF-第34个epoch，准确率为:0.3739
+KCIF-第35个epoch，准确率为:0.3759
+KCIF-第36个epoch，准确率为:0.3774
+KCIF-第37个epoch，准确率为:0.3794
+KCIF-第38个epoch，准确率为:0.3797
+KCIF-第39个epoch，准确率为:0.3822
+KCIF-第40个epoch，准确率为:0.3824
+KCIF-第41个epoch，准确率为:0.3844
+KCIF-第42个epoch，准确率为:0.3846
+KCIF-第43个epoch，准确率为:0.3869
+KCIF-第44个epoch，准确率为:0.3883
+KCIF-第45个epoch，准确率为:0.3901
+KCIF-第46个epoch，准确率为:0.3909
+KCIF-第47个epoch，准确率为:0.3904
+KCIF-第48个epoch，准确率为:0.3934
+KCIF-第49个epoch，准确率为:0.396
+KCIF-第50个epoch，准确率为:0.3955
+KCIF-第51个epoch，准确率为:0.396
+KCIF-第52个epoch，准确率为:0.3974
+KCIF-第53个epoch，准确率为:0.4001
+KCIF-第54个epoch，准确率为:0.4011
+KCIF-第55个epoch，准确率为:0.4024
+KCIF-第56个epoch，准确率为:0.4019
+KCIF-第57个epoch，准确率为:0.4035
+KCIF-第58个epoch，准确率为:0.4043
+KCIF-第59个epoch，准确率为:0.4072
+KCIF-第60个epoch，准确率为:0.4071
+KCIF-第61个epoch，准确率为:0.411
+KCIF-第62个epoch，准确率为:0.412
+KCIF-第63个epoch，准确率为:0.4132
+KCIF-第64个epoch，准确率为:0.4138
+KCIF-第65个epoch，准确率为:0.4149
+KCIF-第66个epoch，准确率为:0.4173
+KCIF-第67个epoch，准确率为:0.4186
+KCIF-第68个epoch，准确率为:0.4176
+KCIF-第69个epoch，准确率为:0.4182
+KCIF方法结束
+Bseline-第 0 个epoch，DPSGD的准确率: 0.1621 KF-DPSGD的准确率: 0.1659
+Bseline-第 1 个epoch，DPSGD的准确率: 0.2004 KF-DPSGD的准确率: 0.2058
+Bseline-第 2 个epoch，DPSGD的准确率: 0.2282 KF-DPSGD的准确率: 0.2342
+Bseline-第 3 个epoch，DPSGD的准确率: 0.2428 KF-DPSGD的准确率: 0.2472
+Bseline-第 4 个epoch，DPSGD的准确率: 0.2513 KF-DPSGD的准确率: 0.2548
+Bseline-第 5 个epoch，DPSGD的准确率: 0.2592 KF-DPSGD的准确率: 0.2612
+Bseline-第 6 个epoch，DPSGD的准确率: 0.264 KF-DPSGD的准确率: 0.2668
+Bseline-第 7 个epoch，DPSGD的准确率: 0.2694 KF-DPSGD的准确率: 0.273
+Bseline-第 8 个epoch，DPSGD的准确率: 0.2723 KF-DPSGD的准确率: 0.2764
+Bseline-第 9 个epoch，DPSGD的准确率: 0.278 KF-DPSGD的准确率: 0.2833
+Bseline-第 10 个epoch，DPSGD的准确率: 0.2823 KF-DPSGD的准确率: 0.2871
+Bseline-第 11 个epoch，DPSGD的准确率: 0.2898 KF-DPSGD的准确率: 0.2951
+Bseline-第 12 个epoch，DPSGD的准确率: 0.2944 KF-DPSGD的准确率: 0.2999
+Bseline-第 13 个epoch，DPSGD的准确率: 0.2956 KF-DPSGD的准确率: 0.3005
+Bseline-第 14 个epoch，DPSGD的准确率: 0.3019 KF-DPSGD的准确率: 0.3076
+Bseline-第 15 个epoch，DPSGD的准确率: 0.304 KF-DPSGD的准确率: 0.3123
+Bseline-第 16 个epoch，DPSGD的准确率: 0.3119 KF-DPSGD的准确率: 0.32
+Bseline-第 17 个epoch，DPSGD的准确率: 0.3169 KF-DPSGD的准确率: 0.3254
+Bseline-第 18 个epoch，DPSGD的准确率: 0.3218 KF-DPSGD的准确率: 0.3302
+Bseline-第 19 个epoch，DPSGD的准确率: 0.3268 KF-DPSGD的准确率: 0.3363
+Bseline-第 20 个epoch，DPSGD的准确率: 0.3284 KF-DPSGD的准确率: 0.3374
+Bseline-第 21 个epoch，DPSGD的准确率: 0.3326 KF-DPSGD的准确率: 0.3416
+Bseline-第 22 个epoch，DPSGD的准确率: 0.338 KF-DPSGD的准确率: 0.3474
+Bseline-第 23 个epoch，DPSGD的准确率: 0.3426 KF-DPSGD的准确率: 0.3498
+Bseline-第 24 个epoch，DPSGD的准确率: 0.3441 KF-DPSGD的准确率: 0.3512
+Bseline-第 25 个epoch，DPSGD的准确率: 0.3486 KF-DPSGD的准确率: 0.3574
+Bseline-第 26 个epoch，DPSGD的准确率: 0.3506 KF-DPSGD的准确率: 0.3596
+Bseline-第 27 个epoch，DPSGD的准确率: 0.3543 KF-DPSGD的准确率: 0.3621
+Bseline-第 28 个epoch，DPSGD的准确率: 0.3559 KF-DPSGD的准确率: 0.365
+Bseline-第 29 个epoch，DPSGD的准确率: 0.3595 KF-DPSGD的准确率: 0.3661
+Bseline-第 30 个epoch，DPSGD的准确率: 0.3624 KF-DPSGD的准确率: 0.3685
+Bseline-第 31 个epoch，DPSGD的准确率: 0.3655 KF-DPSGD的准确率: 0.3709
+Bseline-第 32 个epoch，DPSGD的准确率: 0.3669 KF-DPSGD的准确率: 0.3735
+Bseline-第 33 个epoch，DPSGD的准确率: 0.3684 KF-DPSGD的准确率: 0.3751
+Bseline-第 34 个epoch，DPSGD的准确率: 0.3707 KF-DPSGD的准确率: 0.3756
+Bseline-第 35 个epoch，DPSGD的准确率: 0.3739 KF-DPSGD的准确率: 0.3802
+Bseline-第 36 个epoch，DPSGD的准确率: 0.3761 KF-DPSGD的准确率: 0.3811
+Bseline-第 37 个epoch，DPSGD的准确率: 0.375 KF-DPSGD的准确率: 0.3817
+Bseline-第 38 个epoch，DPSGD的准确率: 0.3783 KF-DPSGD的准确率: 0.3846
+Bseline-第 39 个epoch，DPSGD的准确率: 0.3798 KF-DPSGD的准确率: 0.3869
+Bseline-第 40 个epoch，DPSGD的准确率: 0.3807 KF-DPSGD的准确率: 0.3861
+Bseline-第 41 个epoch，DPSGD的准确率: 0.3825 KF-DPSGD的准确率: 0.3863
+Bseline-第 42 个epoch，DPSGD的准确率: 0.3838 KF-DPSGD的准确率: 0.3907
+Bseline-第 43 个epoch，DPSGD的准确率: 0.3845 KF-DPSGD的准确率: 0.3925
+Bseline-第 44 个epoch，DPSGD的准确率: 0.3857 KF-DPSGD的准确率: 0.3909
+Bseline-第 45 个epoch，DPSGD的准确率: 0.3883 KF-DPSGD的准确率: 0.393
+Bseline-第 46 个epoch，DPSGD的准确率: 0.387 KF-DPSGD的准确率: 0.3947
+Bseline-第 47 个epoch，DPSGD的准确率: 0.3899 KF-DPSGD的准确率: 0.3972
+Bseline-第 48 个epoch，DPSGD的准确率: 0.3907 KF-DPSGD的准确率: 0.3987
+Bseline-第 49 个epoch，DPSGD的准确率: 0.3941 KF-DPSGD的准确率: 0.4003
+Bseline-第 50 个epoch，DPSGD的准确率: 0.3928 KF-DPSGD的准确率: 0.3992
+Bseline-第 51 个epoch，DPSGD的准确率: 0.3953 KF-DPSGD的准确率: 0.4025
+Bseline-第 52 个epoch，DPSGD的准确率: 0.3953 KF-DPSGD的准确率: 0.4041
+Bseline-第 53 个epoch，DPSGD的准确率: 0.3987 KF-DPSGD的准确率: 0.4036
+Bseline-第 54 个epoch，DPSGD的准确率: 0.3987 KF-DPSGD的准确率: 0.4061
+Bseline-第 55 个epoch，DPSGD的准确率: 0.4008 KF-DPSGD的准确率: 0.407
+Bseline-第 56 个epoch，DPSGD的准确率: 0.4014 KF-DPSGD的准确率: 0.4064
+Bseline-第 57 个epoch，DPSGD的准确率: 0.4035 KF-DPSGD的准确率: 0.411
+Bseline-第 58 个epoch，DPSGD的准确率: 0.4052 KF-DPSGD的准确率: 0.4119
+Bseline-第 59 个epoch，DPSGD的准确率: 0.4055 KF-DPSGD的准确率: 0.4109
+Bseline-第 60 个epoch，DPSGD的准确率: 0.406 KF-DPSGD的准确率: 0.4097
+Bseline-第 61 个epoch，DPSGD的准确率: 0.4081 KF-DPSGD的准确率: 0.4142
+Bseline-第 62 个epoch，DPSGD的准确率: 0.4095 KF-DPSGD的准确率: 0.4155
+Bseline-第 63 个epoch，DPSGD的准确率: 0.4099 KF-DPSGD的准确率: 0.4153
+Bseline-第 64 个epoch，DPSGD的准确率: 0.4134 KF-DPSGD的准确率: 0.4198
+Bseline-第 65 个epoch，DPSGD的准确率: 0.4122 KF-DPSGD的准确率: 0.4185
+Bseline-第 66 个epoch，DPSGD的准确率: 0.4129 KF-DPSGD的准确率: 0.4184
+Bseline-第 67 个epoch，DPSGD的准确率: 0.4141 KF-DPSGD的准确率: 0.4192
+Bseline-第 68 个epoch，DPSGD的准确率: 0.4182 KF-DPSGD的准确率: 0.4225
+Bseline-第 69 个epoch，DPSGD的准确率: 0.4165 KF-DPSGD的准确率: 0.4214
+Baseline方法结束
